@@ -1,5 +1,6 @@
 panda 
 numpy
-seaborn
 scikit_learn
-#-e .
+catboost
+dill
+seaborn
